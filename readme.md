@@ -1,1 +1,2 @@
-access the files from zip folder
+project related every file is available in projject-files
+
