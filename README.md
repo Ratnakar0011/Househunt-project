@@ -1,2 +1,1 @@
-# Househunt-project
-it is a MERN STACK project
+access the files from zip folder
