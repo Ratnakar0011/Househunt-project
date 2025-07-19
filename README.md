@@ -53,7 +53,10 @@ Househunt-project/
 ├── screenshots/ # 📸 UI screenshots
 └── README.md
 
+
+
 ---
+
 
 ## ⚙️ Setup Instructions
 
