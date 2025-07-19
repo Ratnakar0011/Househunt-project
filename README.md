@@ -125,12 +125,11 @@ npm start
 ---
 ## 📚 Documentation
 
-All official documents are stored inside the `documentation/` folder:
+You can find all project-related documentation in the [`Documentation/`](./Documentation/) folder.
 
 - **Project Report** – `Project_Report.pdf`
 - **System Architecture** – `System_Architecture.png`
-- **Wireframes** – in `Wireframes/` subfolder
-- **Future Scope Document** – `Future_Scope.pdf`
+
 
 ## 🐞 Known Issues
 
