@@ -34,6 +34,7 @@
 
 ## 📁 Folder Structure
 
+```
 Househunt-project/
 ├── client/               # React frontend
 │   ├── public/
@@ -51,9 +52,7 @@ Househunt-project/
 └── README.md
 ```
 
-
 ---
-
 
 ## ⚙️ Setup Instructions
 
