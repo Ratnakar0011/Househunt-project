@@ -124,6 +124,17 @@ npm start
 
 ---
 
+📂 Documentation
+All official documents are stored inside the /documentation folder:
+
+📝 Project Report
+
+🧠 System Architecture
+
+🖼️ Wireframes
+
+📈 Future Scope Document
+
 ## 🐞 Known Issues
 
 * Owner house upload feature not yet implemented
