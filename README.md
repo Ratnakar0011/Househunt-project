@@ -34,21 +34,24 @@
 
 ## 📁 Folder Structure
 
-```
-HouseHunt/
+Househunt-project/
 │
-├── client/          # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
+├── client/ # React frontend
+│ ├── public/
+│ └── src/
+│ ├── components/
+│ ├── pages/
+│ └── App.js
 │
-├── backend/         # Node + Express backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-```
+├── backend/ # Node.js backend
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ └── server.js
+│
+├── Documentation/ # 📄 Docs added here
+├── screenshots/ # 📸 UI screenshots
+└── README.md
 
 ---
 
