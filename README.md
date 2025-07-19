@@ -49,6 +49,7 @@ Househunt-project/
 ├── Documentation/        # 📄 Docs added here
 ├── screenshots/          # 📸 UI screenshots
 └── README.md
+```
 
 
 ---
