@@ -123,13 +123,15 @@ npm start
 📽️ [Watch Demo Video](https://drive.google.com/file/d/1PSTHk4XCsrLUEQWW5eBxRQPL7uUuVRCk/view?usp=drive_link)
 
 ---
-## 📚 Documentation
+## Documentation
 
 You can find all project-related documentation in the [`Documentation/`](./Documentation/) folder.
 
-- **Project Report** – `Project_Report.pdf`
-- **System Architecture** – `System_Architecture.png`
+## Screenshots
 
+| Home Page | Register | Login | Dashboard |
+|-----------|----------|--------|------------|
+| ![Home](./screenshots/home%20page.png) | ![Register](./screenshots/register.png) | ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
 
 ## 🐞 Known Issues
 
