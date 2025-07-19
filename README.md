@@ -123,16 +123,14 @@ npm start
 📽️ [Watch Demo Video](https://drive.google.com/file/d/1PSTHk4XCsrLUEQWW5eBxRQPL7uUuVRCk/view?usp=drive_link)
 
 ---
-📂 Documentation
-All official documents are stored inside the /documentation folder:
+## 📚 Documentation
 
-📝 Project Report
+All official documents are stored inside the `documentation/` folder:
 
-🧠 System Architecture
-
-🖼️ Wireframes
-
-📈 Future Scope Document
+- **Project Report** – `Project_Report.pdf`
+- **System Architecture** – `System_Architecture.png`
+- **Wireframes** – in `Wireframes/` subfolder
+- **Future Scope Document** – `Future_Scope.pdf`
 
 ## 🐞 Known Issues
 
